@@ -148,6 +148,7 @@ NOW爆谷星影,https://pull-l3-cny.douyincdn.com/live/77356246cd7f1692b6f8df6c0
 中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
 中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天综合,http://2023.stream-link.org/playlist/cti_zh.flv
+中天新闻,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv009/4gtv-live-mid/index.m3u8?token=tTwIfMiUUSl9PayJVvTdjQ&expires=1683751762&token1=K8PRN1jhg8yeD356BOfp-g&expires1=1683751762
 中天新闻,https://epg.pw/stream/93417f5ca23a213e2fd16c9a1fb03013b4aaed0cd2a59826ab129ceefe981477.m3u8
 中天新闻,https://epg.pw/stream/93fa8edfde1ca4ddf8fd46cef643e1f11c143704c26bb6de2adc32d2b3c5c0e1.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
@@ -240,6 +241,7 @@ MIAO MI,https://pull-l3-cny.douyincdn.com/live/e9b83870e092325438087357f3cf134f.
 东风37,http://123.51.230.108:18560/.m3u8
 K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+车迷,https://4gtvfree-mozai.4gtv.tv/Wh14NuSBEk77MBnBGwU2CZm-8IL8pgDEceLKMro7p34%3d/index.m3u8?token=qEsgr1ILhKIjzk9HNnOoKg&expires=1683705985&token1=8cI9T8Ehv6CT2HjbE1BP4w&expires1=1683705985&refer=OTk2MTc3ODMtNzM0NC00NWU3LWFkMjktYjVjOWM2OTRjNTFl&y=0
 时尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 時裝頻道,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 世新綜合,http://61.58.60.230:9319/live/49.m3u8
@@ -340,6 +342,7 @@ TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571
 龍祥時代,http://120.84.96.113:808/hls/35/index.m3u8
 龍祥時代,http://120.84.96.23:808/hls/35/index.m3u8
 龍祥時代,http://lcx-olt.8866.org:8181/tsfile/live/1077_1.m3u8
+龙华电影,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn03/4gtv-live-mid/litv-longturn03-audio_20000=64000-video=2936000.m3u8?token=8CoDcUTI6jh9xWHz622Vng&expires=1683734664&token1=XSQ-wSp45qXhqi2DMD-xrA&expires1=1683734664
 龙华电影,https://pull-l3-cny.douyincdn.com/live/7485ea406ae19c303a166293253ab96a.flv
 龙华电影,https://epg.pw/stream/e4f21acda4343622520728335bad935a0f525b0afb005d52e8cb4f96c1c0f423.m3u8
 龙华洋片,http://flv.mp4cdn.live/gt-key=00569874.php?id=107

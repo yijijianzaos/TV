@@ -94,6 +94,7 @@ HOY資訊,https://cdn.hklive.tv/xxxx/78/index.m3u8
 香港國際財經,https://cdn.hklive.tv/xxxx/76/index.m3u8
 TVB1台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=ICdnbP1fWe
 TVB1台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
+TVB J1,https://epg.pw/stream/fc2f69c5992d3d15ab76c291b8dfd1a839a15216dc8cc247ce4a8310dd314b4f.ctv
 TVB千禧经典台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=HnxccIWiNo
 TVB千禧经典台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=S0w0stULcO
 TVB娱乐新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=HnxccIWiNo
@@ -146,7 +147,8 @@ TVB星河,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&p
 中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
 中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天综合,http://2023.stream-link.org/playlist/cti_zh.flv
-中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
+中天新闻,https://epg.pw/stream/93417f5ca23a213e2fd16c9a1fb03013b4aaed0cd2a59826ab129ceefe981477.m3u8
+中天新闻,https://epg.pw/stream/93fa8edfde1ca4ddf8fd46cef643e1f11c143704c26bb6de2adc32d2b3c5c0e1.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
@@ -202,6 +204,10 @@ TVBS新闻HD,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=9
 东森财经,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156396&extension=ts&play_token=UEKTIim7lP
 东森财经,http://123.51.230.108:18515/.m3u8
 东森财经,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+東森超視,rtmp://119.81.124.89/sat/tv331
+東森超視,rtmp://219.80.97.77/sat/tv331
+東森超視,rtmp://219.80.97.77/sat/tv331
+東森超視,https://epg.pw/stream/c3c13beaaa6a42a4fc1b45204dddbf3b92ce3ecbb4655eccec09140d511624ef.m3u8
 東森超視,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视34.5,https://epg.pw/stream/eb60567383fe9a9226fd2ea1f728a1acbf5dd7543ede209993527ef9bef82a68.m3u8
@@ -215,7 +221,9 @@ TVBS新闻HD,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=9
 東森America,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 东森yoyo,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156403&extension=ts&play_token=UEKTIim7lP
 纬来综合,http://123.51.230.108:18540/.m3u8
+纬来综合,https://epg.pw/stream/1bb62481510bab5aea601246b4a88ebdfc59994b84c64e6896ecd3fb27048c0c.m3u8
 纬来育乐,rtmp://119.81.124.89/sat/tv701
+纬来育乐,rtmp://219.80.97.77/sat/tv701
 纬来日本,rtmp://119.81.124.89/sat/tv771
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 纬来体育,http://123.51.230.108:18509/.m3u8
@@ -326,12 +334,18 @@ TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571
 龍祥時代,http://120.84.96.23:808/hls/35/index.m3u8
 龍祥時代,http://lcx-olt.8866.org:8181/tsfile/live/1077_1.m3u8
 龍祥時代,https://epg.pw/stream/af3d4696a51795162a37751aa9540a4bb224ef256d6ade811cc8418030e666ae.m3u8
+龍祥時代,https://epg.pw/stream/e7cebea6a031221496c8fef314bc1cb2659df3ccf14cd78ea79bb8532fa9b8ff.m3u8
 龍祥時代,http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=120.84.96.i&tvid=lxsd
 龙华电影,https://epg.pw/stream/e4f21acda4343622520728335bad935a0f525b0afb005d52e8cb4f96c1c0f423.m3u8
 龙华洋片,http://flv.mp4cdn.live/gt-key=00569874.php?id=107
+龙华洋片,https://epg.pw/stream/983176d04dfe921eadca02d6295ab0cf0e8c49e004c68f58b60935721e38154c.m3u8
 龙华戏剧,http://123.51.230.108:18513/.m3u8
+龙华戏剧,https://epg.pw/stream/68d82667c95bfce30b2ec39c05de894035e14289bbf2cbc48fd54ec5576dc053.m3u8
+龙华偶像,https://epg.pw/stream/5bb17423af2bdf0fe201b9c7f86ec1b92081c92a8df002f3c957286e9844e49a.m3u8
+卫视电影,https://epg.pw/stream/ec157bda5932f331c675ab35282e94160e894c90f425e16caad131e6aa400078.m3u8
 卫视电影,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=UX6nxpu1TT
-星卫电影,http://23.237.10.66:16359
+卫视电影(MY),https://epg.pw/stream/2205f4b654ce4bffc63d7bf5f952e015fc5df887349bd59a2f72c02454595817.ctv
+星卫娱乐,http://23.237.10.66:16359
 星卫电影,http://flv.mp4cdn.live/gt-key=00569874.php?id=112
 星卫电影,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941625
 星卫电影,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=vFR5CkmzbA

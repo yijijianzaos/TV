@@ -1,4 +1,4 @@
-香港备,#genre#
+香港备,#genre#,
 凤凰中文,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=1#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=1
 凤凰资讯,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=2#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=2
 翡翠台,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=5#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=5
@@ -152,7 +152,7 @@ NOW爆谷星影,https://pull-l3-cny.douyincdn.com/live/77356246cd7f1692b6f8df6c0
 澳門蓮花,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=amlh
 澳門蓮花,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=amlh
 
-台湾备,#genre#
+台湾备,#genre#,
 民视,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=62#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=62
 台视,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=61#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=61
 华视,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=63#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=63
@@ -302,7 +302,7 @@ K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 新唐人亞太台,http://tv.redrainl.site:9500/live.m3u8?c=52
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 
-马新备,#genre#
+马新备,#genre#,
 AOD,http://162.19.247.76:22222/live/uch7/index.m3u8
 欢喜,http://162.19.247.76:22222/live/uch3/index.m3u8
 DIDIK,http://23.237.10.66:16405
@@ -333,7 +333,7 @@ TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571
 卫视中文,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941624&extension=ts&play_token=xmfFOBilCP
 卫视中文,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941624
 
-电影备,#genre#
+电影备,#genre#,
 高清电影台,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bfa0a1311d0134f8d.flv
 金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 八大第一台,http://123.51.230.108:18539/.m3u8
@@ -416,7 +416,7 @@ HBO XTREME,http://208.115.225.174:14165
 AXN,http://flv.mp4cdn.live/gt-key=00569874.php?id=102
 cinemax,http://flv.mp4cdn.live/gt-key=00569874.php?id=101
 
-18+_0914,#genre#
+18+_0914,#genre#,
 BigAss,http://cdn.adultiptv.net/bigass.m3u8
 Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
 Brunette,http://cdn.adultiptv.net/brunette.m3u8

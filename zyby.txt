@@ -405,6 +405,25 @@ TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571
 天映频道(SG),http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571218&extension=ts&play_token=HnxccIWiNo
 天映频道(Indo),http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941618
 天映频道(Indo),http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=vFR5CkmzbA
+HBO高清，http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10117
+HBO2高清，http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10118
+HBO家庭高清，http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10121
+HBO 签名高清，http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10122
+HBO PLUS 高清，http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10119
+HBO POP 高清，http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10123
+HBO FHD HVEC,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10293
+HBO 世界高清，http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10294
+HBO Xtreme 高清，http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10295
+HBO 家庭 H.265，http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10615
+HBO H.265,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10618
+HBO MUNDI H.265,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10620
+HBO PLUS H.265,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10623
+HBO POP H.265,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10626
+HBO 签名 H.265，http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10630
+HBO XTREME H.265，http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10633
+HBO 2 H.265,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10740
+HBO MAX 1,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10934
+HBO MAX 2 高清,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/11192
 HBO家庭,http://flv.mp4cdn.live/gt-key=00569874.php?id=99
 HBO 2,http://208.115.225.174:14140
 HBO Mundi,http://208.115.225.174:14148

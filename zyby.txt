@@ -180,6 +180,7 @@ NOW爆谷星影,https://pull-l3-cny.douyincdn.com/live/77356246cd7f1692b6f8df6c0
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
+年代MUCH,http://61.221.81.93:8078/hls/27/80/much.m3u8
 镜新闻,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=52#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=52
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
 镜新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -259,6 +260,7 @@ TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 東森America,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森America,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 東森America,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+东森戏剧,http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
 东森yoyo,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156403&extension=ts&play_token=UEKTIim7lP
 纬来综合,http://123.51.230.108:18540/.m3u8
 纬来综合,https://epg.pw/stream/1bb62481510bab5aea601246b4a88ebdfc59994b84c64e6896ecd3fb27048c0c.m3u8

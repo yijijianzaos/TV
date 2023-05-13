@@ -1,6 +1,8 @@
 香港备,#genre#,
 凤凰中文,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=1#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=1
+凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰资讯,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=2#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=2
+凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 翡翠台,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=5#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=5#http://cdn.hkdtmb.com/raw/81.ts
 明珠台,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=9#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=9#http://cdn.hkdtmb.com/raw/84.ts
 J2,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=8#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=8#http://cdn.hkdtmb.com/raw/82.ts
@@ -157,6 +159,7 @@ NOW爆谷星影,https://pull-l3-cny.douyincdn.com/live/77356246cd7f1692b6f8df6c0
 台视,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=61#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=61
 华视,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=63#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=63
 中视,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=60#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=60
+中视,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
 民视,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156389&extension=ts&play_token=UEKTIim7lP
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 台视,https://epg.pw/stream/e43c7da3f07bd4a5c8584901e2f6ff522368b6b3d8a02ac7e476de8a9a31912c.ctv
@@ -169,6 +172,7 @@ NOW爆谷星影,https://pull-l3-cny.douyincdn.com/live/77356246cd7f1692b6f8df6c0
 中天亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
 中天亚洲,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941638
 中天综合,http://23.237.10.66:16372
+中天综合,http://61.221.81.93:8078/hls/35/80/cti.m3u8
 中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
 中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
@@ -236,9 +240,10 @@ TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 三立国际,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156390&extension=ts&play_token=UEKTIim7lP
 东森综合,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+东森综合,http://61.221.81.93:8078/hls/34/80/ebc.m3u8
 东森LIVE,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=44#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=44
 东森新闻,http://123.51.230.108:8531/.m3u8
-东森新闻,http://2023.stream-link.org/playlist/ebc_news.flv
+东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 东森新闻,http://2023.stream-link.org/playlist/ebc_news
 东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
 东森财经,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=45#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=45
@@ -270,6 +275,7 @@ TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 纬来体育,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=73#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=73
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 纬来体育,http://123.51.230.108:18509/.m3u8
+八大戏剧,http://61.221.81.93:8078/hls/38/80/gtvdrama.m3u8
 博斯魅力,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=79#http://906koo.us56.aihost9.top/iptv/tbsF2.php?id=79
 亚洲美食,https://pull-l3-cny.douyincdn.com/live/d2c2213a7960cbc74bfa8e3c1b6a92b8.flv
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
@@ -277,6 +283,7 @@ TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 MIAO MI,https://pull-l3-cny.douyincdn.com/live/e9b83870e092325438087357f3cf134f.flv
+starWold,http://61.221.81.93:8078/hls/11/80/fox.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
@@ -436,6 +443,7 @@ HBO XTREME,http://208.115.225.174:14165
 好莱坞,http://120.84.96.89:808/hls/24/index.m3u8
 AXN,http://flv.mp4cdn.live/gt-key=00569874.php?id=102
 cinemax,http://flv.mp4cdn.live/gt-key=00569874.php?id=101
+cinemax,http://61.221.81.93:8078/hls/22/80/cinemax.m3u8
 
 成人,#genre#,
 BigAss,http://cdn.adultiptv.net/bigass.m3u8

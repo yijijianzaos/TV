@@ -46,14 +46,17 @@ LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 香港备,#genre#,
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+翡翠台,http://lu1.cc/itv/php/gudou.php?id=fct
 翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
 翡翠台,http://cdn.hkdtmb.com/raw/81.ts
+明珠台,http://lu1.cc/itv/php/gudou.php?id=mzt
 明珠台,http://cdn.hkdtmb.com/raw/84.ts
 J2,http://cdn.hkdtmb.com/raw/82.ts
 无线新闻,http://cdn.hkdtmb.com/raw/83.ts
 无线财经,http://cdn.hkdtmb.com/raw/85.ts
 RTHK31,http://cdn.hkdtmb.com/raw/31.ts
 RTHK32,http://cdn.hkdtmb.com/raw/32.ts
+ViuTV,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-1edeac06-94f0-413b-8fb9-71350cad3c61.m3u8
 ViuTV,http://cdn.hkdtmb.com/raw/99.ts
 Viu Six,http://cdn.hkdtmb.com/raw/96.ts
 香港國際財經,http://cdn.hkdtmb.com/raw/76.ts
@@ -179,6 +182,7 @@ NOW爆谷星影,https://pull-l3-cny.douyincdn.com/live/77356246cd7f1692b6f8df6c0
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+澳亞衛視,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亞衛視,http://107.151.203.111:2209/135/hk.php?id=aoya
 澳門蓮花,http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=120.84.96.i&tvid=amlh
 澳門蓮花,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=amlh
@@ -298,8 +302,9 @@ starWold,http://61.221.81.93:8078/hls/11/80/fox.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 东风37,http://123.51.230.108:18560/.m3u8
-K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w783602844.m3u8
+K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 车迷,https://4gtvfree-mozai.4gtv.tv/n7gLz_1NtTcyE_f_TMqLFjCrA8YSiyo99lnQ57HzpNg%3d/index.m3u8?token=DuMpx1TJ_dCGsgdrhWS7KA&expires=1683706839&token1=ZTZqZooLrWFjfo-lFguhgg&expires1=1683706839&refer=Y2FjYjY0ZjgtZTY3ZC00ZjkwLWFmM2YtMzVlOTkzYWFmZjc0&y=0
 时尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 時裝頻道,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8

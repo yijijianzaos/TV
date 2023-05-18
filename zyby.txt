@@ -46,6 +46,7 @@ LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 香港备,#genre#,
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://lu1.cc/itv/php/gudou.php?id=fct
 翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
 翡翠台,http://cdn.hkdtmb.com/raw/81.ts
@@ -78,7 +79,6 @@ HKS,http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
 HKS,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
-翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://shazui.8866.org:800/hls/80/index.m3u8
 翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8

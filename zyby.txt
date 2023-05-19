@@ -158,7 +158,6 @@ TVB J1,https://epg.pw/stream/fc2f69c5992d3d15ab76c291b8dfd1a839a15216dc8cc247ce4
 TVB千禧经典台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=HnxccIWiNo
 TVB千禧经典台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=S0w0stULcO
 TVB娱乐新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=HnxccIWiNo
-TVB星河,http://flv.mp4cdn.live/gt-key=00569874.php?id=4
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=vFR5CkmzbA
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo
 TVB星河,http://183.239.193.55:2223/hls/6/index.m3u8

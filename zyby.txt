@@ -44,17 +44,26 @@ ELEVEN 2,http://154.216.191.59/ycdz/x.php?id=77
 LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 香港备,#genre#,
+凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
 凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+凤凰香港,http://120.84.96.73:808/hls/81/index.m3u8
+凤凰香港,http://120.84.96.89:808/hls/81/index.m3u8
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://lu1.cc/itv/php/gudou.php?id=fct
 翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
 翡翠台,http://cdn.hkdtmb.com/raw/81.ts
+明珠台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-466bc050-ee67-4156-b009-1599a952cfed.m3u8
 明珠台,http://lu1.cc/itv/php/gudou.php?id=mzt
 明珠台,http://cdn.hkdtmb.com/raw/84.ts
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://cdn.hkdtmb.com/raw/82.ts
+无线新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-127406a1-8537-4fe6-8b05-c80fac079141.m3u8
 无线新闻,http://cdn.hkdtmb.com/raw/83.ts
 无线财经,http://cdn.hkdtmb.com/raw/85.ts
 RTHK31,http://cdn.hkdtmb.com/raw/31.ts
@@ -73,10 +82,7 @@ Viu Six,http://cdn.hkdtmb.com/raw/96.ts
 凤凰资讯,http://120.84.96.89:808/hls/28/index.m3u8
 凤凰资讯,http://123.51.230.108:18580/.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
-凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
-凤凰香港,http://120.84.96.73:808/hls/81/index.m3u8
-凤凰香港,http://120.84.96.89:808/hls/81/index.m3u8
-凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 HKS,http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
 HKS,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -191,14 +197,18 @@ NOW爆谷星影,https://pull-l3-cny.douyincdn.com/live/77356246cd7f1692b6f8df6c0
 澳門蓮花,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=amlh
 
 台湾备,#genre#,
-中视,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
+民视,rtmp://219.80.97.77/sat/tv051
+台视,rtmp://219.80.97.77/sat/tv071
+中视,rtmp://219.80.97.77/sat/tv091
+华视,rtmp://219.80.97.77/sat/tv111
 民视,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156389&extension=ts&play_token=UEKTIim7lP
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 台视,https://epg.pw/stream/e43c7da3f07bd4a5c8584901e2f6ff522368b6b3d8a02ac7e476de8a9a31912c.ctv
+中视,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
+中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 华视,http://162.19.247.76:22222/live/huashi/index.m3u8
 华视,rtmp://119.81.124.89/sat/tv111
 华视,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156391&extension=ts&play_token=UEKTIim7lP
-中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
 中天亚洲,http://162.19.247.76:22222/live/ztyz/index.m3u8
 中天亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
@@ -241,6 +251,7 @@ NOW爆谷星影,https://pull-l3-cny.douyincdn.com/live/77356246cd7f1692b6f8df6c0
 华视新闻资讯,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 华视新闻资讯,http://stream.dsichannel.com/hls/cts-news.m3u8
 华视新闻资讯,http://seb.sason.top/sc/hsxw_fhd.m3u8
+TVBS新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-335ded5b-f649-4a3c-919d-fc7fafb9e43e.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
@@ -265,7 +276,8 @@ TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 东森新闻,http://2023.stream-link.org/playlist/ebc_news
 东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
-东森财经,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156396&extension=ts&play_token=UEKTIim7lP
+东森财经美洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156396&extension=ts&play_token=UEKTIim7lP
+东森财经,rtmp://219.80.97.77/sat/tv571
 东森财经,http://123.51.230.108:18515/.m3u8
 东森财经,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 東森超視,rtmp://119.81.124.89/sat/tv331
@@ -289,6 +301,7 @@ TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 纬来综合,https://epg.pw/stream/1bb62481510bab5aea601246b4a88ebdfc59994b84c64e6896ecd3fb27048c0c.m3u8
 纬来育乐,rtmp://119.81.124.89/sat/tv701
 纬来育乐,rtmp://219.80.97.77/sat/tv701
+纬来日本,rtmp://219.80.97.77/sat/tv771
 纬来日本,rtmp://119.81.124.89/sat/tv771
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 纬来体育,http://123.51.230.108:18509/.m3u8
@@ -298,6 +311,7 @@ TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+MOMO综合,rtmp://219.80.97.77/sat//tv761
 MIAO MI,https://pull-l3-cny.douyincdn.com/live/e9b83870e092325438087357f3cf134f.flv
 starWold,http://61.221.81.93:8078/hls/11/80/fox.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8

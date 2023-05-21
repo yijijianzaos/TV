@@ -1,49 +1,5 @@
-港 台,#genre#,
-东森洋片台,http://120.84.96.109:808/hls/33/index.m3u8
-东森洋片台,http://120.84.96.82:808/hls/33/index.m3u8
-龙祥时代,http://120.84.96.109:808/hls/35/index.m3u8
-八大第一台,http://123.51.230.108:18539/.m3u8
-三立台湾台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
-三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
-凤凰卫视资讯台,http://154.216.191.59/ycdz/x.php?id=2
-TVB翡翠台,http://154.216.191.59/ycdz/x.php?id=5
-TVB无线新闻台,http://154.216.191.59/ycdz/x.php?id=6
-TVB财经体育资讯台,http://154.216.191.59/ycdz/x.php?id=7
-TVB J2台,http://154.216.191.59/ycdz/x.php?id=8
-TVB明珠台,http://154.216.191.59/ycdz/x.php?id=9
-香港国际财经台,http://154.216.191.59/ycdz/x.php?id=22
-HOY资讯台,http://154.216.191.59/ycdz/x.php?id=23
-HOY TV,http://154.216.191.59/ycdz/x.php?id=24
-港台电视31,http://154.216.191.59/ycdz/x.php?id=26
-港台电视32,http://154.216.191.59/ycdz/x.php?id=27
-中天新闻台,http://154.216.191.59/ycdz/x.php?id=43
-东森新闻台,http://154.216.191.59/ycdz/x.php?id=44
-东森财经新闻台,http://154.216.191.59/ycdz/x.php?id=45
-中视新闻台,http://154.216.191.59/ycdz/x.php?id=46
-台视新闻台,http://154.216.191.59/ycdz/x.php?id=47
-三立新闻台,http://154.216.191.59/ycdz/x.php?id=48
-民视新闻台,http://154.216.191.59/ycdz/x.php?id=50
-华视新闻台,http://154.216.191.59/ycdz/x.php?id=51
-镜电视新闻台,http://154.216.191.59/ycdz/x.php?id=52
-寰宇新闻台,http://154.216.191.59/ycdz/x.php?id=53
-TVBS新闻台,http://154.216.191.59/ycdz/x.php?id=54
-TVBS HD,http://154.216.191.59/ycdz/x.php?id=56
-TVBS欢乐台,http://154.216.191.59/ycdz/x.php?id=57
-中视HD,http://154.216.191.59/ycdz/x.php?id=60
-台视HD,http://154.216.191.59/ycdz/x.php?id=61
-民视HD,http://154.216.191.59/ycdz/x.php?id=62
-华视HD,http://154.216.191.59/ycdz/x.php?id=63
-纬来体育台,http://154.216.191.59/ycdz/x.php?id=73
-纬来日本台,http://154.216.191.59/ycdz/x.php?id=74
-纬来育乐台,http://154.216.191.59/ycdz/x.php?id=75
-ELEVEN 1,http://154.216.191.59/ycdz/x.php?id=76
-ELEVEN 2,http://154.216.191.59/ycdz/x.php?id=77
-爱尔达体育1台,http://154.216.191.59/ycdz/x.php?id=79
-爱尔达体育2台,http://154.216.191.59/ycdz/x.php?id=80
-爱尔达体育3台,http://154.216.191.59/ycdz/x.php?id=81
-LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
 香港备,#genre#,
+LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
@@ -282,8 +238,9 @@ TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 三立新闻,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 三立新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
-三立台湾,http://162.19.247.76:22222/live/uch5/index.m3u8
-三立都会,http://162.19.247.76:22222/live/uch6/index.m3u8
+三立台湾,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
+三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
+三立都会,http://162.19.247.76:22222/live/uch5/index.m3u8
 三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 三立国际,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156390&extension=ts&play_token=UEKTIim7lP
 东森综合,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
@@ -417,6 +374,8 @@ TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571
 东森电影,http://lcx-olt.8866.org:8181/tsfile/live/1075_1.m3u8
 东森电影,http://120.84.96.28:808/hls/32/index.m3u8
 东森电影,http://120.84.96.82:808/hls/32/index.m3u8
+东森洋片,http://120.84.96.109:808/hls/33/index.m3u8
+东森洋片,http://120.84.96.82:808/hls/33/index.m3u8
 东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
 东森洋片,http://flv.mp4cdn.live/gt-key=00569874.php?id=105
 东森洋片,http://120.84.96.73:808/hls/33/index.m3u8
@@ -427,7 +386,7 @@ TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571
 东森洋片,http://120.84.96.23:808/hls/33/index.m3u8
 东森洋片,http://120.84.96.82:808/hls/33/index.m3u8
 纬来电影,http://flv.mp4cdn.live/gt-key=00569874.php?id=103
-龍祥時代,http://flv.mp4cdn.live/gt-key=00569874.php?id=108
+龍祥時代,http://120.84.96.109:808/hls/35/index.m3u8
 龍祥時代,https://pull-l3-cny.douyincdn.com/live/06762dddd1035e6e1a7fb4e0b4aba30e.flv
 龍祥時代,https://epg.pw/stream/af3d4696a51795162a37751aa9540a4bb224ef256d6ade811cc8418030e666ae.m3u8
 龍祥時代,https://epg.pw/stream/e7cebea6a031221496c8fef314bc1cb2659df3ccf14cd78ea79bb8532fa9b8ff.m3u8

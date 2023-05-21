@@ -54,10 +54,12 @@ LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 凤凰香港,http://120.84.96.89:808/hls/81/index.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334206
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://lu1.cc/itv/php/gudou.php?id=fct
 翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
 翡翠台,http://cdn.hkdtmb.com/raw/81.ts
+翡翠台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153395&extension=ts&play_token=tdSmXOsMqf
 明珠台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-466bc050-ee67-4156-b009-1599a952cfed.m3u8
 明珠台,http://lu1.cc/itv/php/gudou.php?id=mzt
 明珠台,http://cdn.hkdtmb.com/raw/84.ts
@@ -65,6 +67,7 @@ J2,http://r.jdshipin.com/Nr5jq
 J2,http://cdn.hkdtmb.com/raw/82.ts
 无线新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-127406a1-8537-4fe6-8b05-c80fac079141.m3u8
 无线新闻,http://cdn.hkdtmb.com/raw/83.ts
+无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 无线财经,http://cdn.hkdtmb.com/raw/85.ts
 RTHK31,http://cdn.hkdtmb.com/raw/31.ts
 RTHK32,http://cdn.hkdtmb.com/raw/32.ts
@@ -158,12 +161,18 @@ HOY,https://cdn.hklive.tv/xxxx/77/index.m3u8
 HOY資訊,https://cdn.hklive.tv/xxxx/78/index.m3u8
 HOY資訊,http://cdn.hkdtmb.com/raw/78.ts
 香港國際財經,https://cdn.hklive.tv/xxxx/76/index.m3u8
-TVB1台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=ICdnbP1fWe
-TVB1台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
+TVB1,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153401&extension=ts&play_token=wxx9BccHxp
+TVB1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=ICdnbP1fWe
+TVB1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
 TVB J1,https://epg.pw/stream/fc2f69c5992d3d15ab76c291b8dfd1a839a15216dc8cc247ce4a8310dd314b4f.ctv
+TVB drama,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153400&extension=ts&play_token=l1PpLPHRTQ
+TVBe,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153398&extension=ts&play_token=0ib2fAt9jW
+TVB千禧经典台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153503&extension=ts&play_token=XgkUlCEKCM
 TVB千禧经典台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=HnxccIWiNo
 TVB千禧经典台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=S0w0stULcO
+TVB娱乐新闻台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153504&extension=ts&play_token=9urlq5p625
 TVB娱乐新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=HnxccIWiNo
+TVB星河,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153506&extension=ts&play_token=oBUI7V2RM0
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=vFR5CkmzbA
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo
 TVB星河,http://183.239.193.55:2223/hls/6/index.m3u8
@@ -180,6 +189,7 @@ NOW爆谷星影,https://pull-l3-cny.douyincdn.com/live/77356246cd7f1692b6f8df6c0
 天映经典,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941639&extension=ts&play_token=vFR5CkmzbA
 天映经典,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941639
 天映经典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
+星空卫视,http://120.84.96.82:808/hls/79/index.m3u8
 星空卫视,http://jylt.jdshipin.com:808/hls/79/index.m3u8
 星空卫视,http://107.151.203.111:2209/135/hk.php?id=xkwst
 星空卫视,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
@@ -192,6 +202,7 @@ NOW爆谷星影,https://pull-l3-cny.douyincdn.com/live/77356246cd7f1692b6f8df6c0
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 澳亞衛視,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亞衛視,http://107.151.203.111:2209/135/hk.php?id=aoya
+澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳門蓮花,http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=120.84.96.i&tvid=amlh
 澳門蓮花,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=amlh
 澳門蓮花,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=amlh
@@ -364,6 +375,7 @@ astro,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571229&e
 家庭影院,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56057&extension=ts&play_token=pqlvbiUAPq
 Astro OASIS,http://23.237.10.66:16471
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153397&extension=ts&play_token=mpwdCCQONG
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8

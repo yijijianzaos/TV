@@ -313,9 +313,11 @@ starWold,http://61.221.81.93:8078/hls/11/80/fox.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 东风37,http://123.51.230.108:18560/.m3u8
-K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w783602844.m3u8
-K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+The K-Pop,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
+The K-Pop2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w783602844.m3u8
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 车迷,https://4gtvfree-mozai.4gtv.tv/n7gLz_1NtTcyE_f_TMqLFjCrA8YSiyo99lnQ57HzpNg%3d/index.m3u8?token=DuMpx1TJ_dCGsgdrhWS7KA&expires=1683706839&token1=ZTZqZooLrWFjfo-lFguhgg&expires1=1683706839&refer=Y2FjYjY0ZjgtZTY3ZC00ZjkwLWFmM2YtMzVlOTkzYWFmZjc0&y=0
 时尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 時裝頻道,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8

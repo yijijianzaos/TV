@@ -6,9 +6,9 @@ LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 凤凰资讯,http://kkwk999.top/fh.php?id=fhzx
 凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
-凤凰香港,http://kkwk999.top/fh.php?id=fhhk
 凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+凤凰香港,http://kkwk999.top/fh.php?id=fhhk
 凤凰香港,http://120.84.96.73:808/hls/81/index.m3u8
 凤凰香港,http://120.84.96.89:808/hls/81/index.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
@@ -22,6 +22,7 @@ LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 明珠台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-466bc050-ee67-4156-b009-1599a952cfed.m3u8
 明珠台,http://lu1.cc/itv/php/gudou.php?id=mzt
 明珠台,http://cdn.hkdtmb.com/raw/84.ts
+J2,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-42928950-ff4d-40a6-ba5a-531ccda5c009.m3u8
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://cdn.hkdtmb.com/raw/82.ts
 无线新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-127406a1-8537-4fe6-8b05-c80fac079141.m3u8
@@ -180,6 +181,7 @@ HKCSportsPlus2,http://pull-l3-cny.douyincdn.com/live/f7691aa646734bd1c7640c29c7d
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 澳亞衛視,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亞衛視,http://107.151.203.111:2209/135/hk.php?id=aoya
+澳門蓮花,http://2754879785.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=vKkBACWmB_vg3GMX&secondToken=secondToken%3AvE2NhYv-KdmreA7-rDLmprVt7Zs&streamid=lotustv%3Alotustv%2Fmacaulotustv&v3=1
 澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳門蓮花,http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=120.84.96.i&tvid=amlh
 澳門蓮花,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=amlh
@@ -312,6 +314,7 @@ starWold,http://61.221.81.93:8078/hls/11/80/fox.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+东风37,http://123.51.230.108:18560/http/192.168.1.9:8081/hls/68/810/8_330303.m3u8
 东风37,http://123.51.230.108:18560/.m3u8
 The K-Pop,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
 The K-Pop2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
@@ -343,6 +346,7 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 AOD,http://162.19.247.76:22222/live/uch7/index.m3u8
 欢喜,http://162.19.247.76:22222/live/uch3/index.m3u8
 DIDIK,http://23.237.10.66:16405
+翡翠(MY),http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=uWRW1HvPSb
 翡翠(MY),http://23.237.10.66:16410
 WB TV,http://208.115.225.174:14132
 TVN,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941623

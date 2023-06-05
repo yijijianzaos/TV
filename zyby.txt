@@ -124,11 +124,27 @@ HOY資訊,https://cdn.hklive.tv/xxxx/78/index.m3u8
 HOY資訊,http://cdn.hkdtmb.com/raw/78.ts
 香港國際財經,http://pull-l3-cny.douyincdn.com/live/0cea926c6b65a96cd5e76698114b085a.flv
 香港國際財經,https://cdn.hklive.tv/xxxx/76/index.m3u8
+翡翠台(MY),http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571187&extension=ts&play_token=YkgkwgVqOg
+TVB星河,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571186&extension=ts&play_token=iYsTPtzZ05
+TVB娱乐新闻台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571188&extension=ts&play_token=FCeLwkcapV
+TVB娱乐新闻台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153504&extension=ts&play_token=1zsxueSzUr
+天映频道(MY),http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571218&extension=ts&play_token=KVBInS6gLQ
+亚洲美食,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=534440&extension=ts&play_token=LyUpNB6XX1
+HGTV,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571202&extension=ts&play_token=Fpq0F9Q9fu
+TVB J1,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153395&extension=ts&play_token=NqMwFnqLMi
+TVB1,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153396&extension=ts&play_token=lrCcfTD1Ea
+TVB2,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153397&extension=ts&play_token=ppZxmJOjni
+TVB2,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153397&extension=ts&play_token=93ZPIAudxa
+TVB DRAMA,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153400&extension=ts&play_token=jbx9WB1yQ3
+无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=TsaZ4tGlys
+TVBe,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153398&extension=ts&play_token=n4zs1pN8KV
+翡翠台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153401&extension=ts&play_token=HwZA135Imp
+TVB千禧经典台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153503&extension=ts&play_token=SiMS6wIE04
 TVB1,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153401&extension=ts&play_token=wxx9BccHxp
 TVB1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=ICdnbP1fWe
 TVB1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
 TVB J1,https://epg.pw/stream/fc2f69c5992d3d15ab76c291b8dfd1a839a15216dc8cc247ce4a8310dd314b4f.ctv
-TVB drama,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153400&extension=ts&play_token=l1PpLPHRTQ
+TVB DRAMA,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153400&extension=ts&play_token=l1PpLPHRTQ
 TVBe,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153398&extension=ts&play_token=0ib2fAt9jW
 TVB千禧经典台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153503&extension=ts&play_token=XgkUlCEKCM
 TVB千禧经典台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=HnxccIWiNo
@@ -148,7 +164,6 @@ Now新闻台,http://pull-l3-cny.douyincdn.com/live/cc9a7a9fedf148a0549228ec2843f
 Now直播台,http://pull-l3-cny.douyincdn.com/live/f0a78b80abbcffcdfd3c0a135adc4907.flv
 Now财经台,http://pull-l3-cny.douyincdn.com/live/c1c50e46715a6efb84aa35e32ae33b33.flv
 Now剧集台,http://pull-l3-cny.douyincdn.com/live/6ac03feb317d68ccbb727631dcdc4696.flv
-Now华剧台,http://pull-l3-cny.douyincdn.com/live/7730fecbf4b9013e99850c43714963b7.flv
 Now华剧台,https://dispatch.ulivetv.net/v/live/ciw8gb4fs8g0.m3u8?stream_id=ciw8gb4fs8g0&timestamp=1684980748&rand=ujyi53X0T8&uuid=9b647b3816b2a66a&from=web&sign=2ba0da5a5d165ca2ab5a36b4b30febef
 Now紫金国际,http://pull-l3-cny.douyincdn.com/live/06d52489b35dc88a336b98d9dbf33425.flv
 NowSports精选,http://pull-l3-cny.douyincdn.com/live/c72796c29638dbd3cfb5a8117af08f79.flv

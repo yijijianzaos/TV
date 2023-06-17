@@ -62,6 +62,7 @@
 霹靂台灣台,mitv://135.148.104.228:19806/80c8f58fc21942e3ad01345739d3094f
 霹靂台灣台,mitv://generationnexxxt.com:19806/80c8f58fc21942e3ad01345739d3094f
 霹靂台灣台,P2p://135.148.104.228:19806/80c8f58fc21942e3ad01345739d3094f
+中視,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
 中視,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 中視,mitv://generationnexxxt.com:19806/f1f4f77c21e2470e9c29111c9370bf08
 中視,mitv://135.148.104.228:19806/f1f4f77c21e2470e9c29111c9370bf08
@@ -245,6 +246,7 @@ TVBS歡樂台,P2p://135.148.104.228:19806/645c744e0000479b6afb2f39254b3e96
 東森幼幼台,mitv://135.148.104.228:19806/23305327c764422e9747ab09a6edee43
 東森幼幼台,mitv://generationnexxxt.com:19806/23305327c764422e9747ab09a6edee43
 東森幼幼台,P2p://135.148.104.228:19806/23305327c764422e9747ab09a6edee43
+東森綜合台,http://61.221.81.93:8078/hls/34/80/ebc.m3u8
 東森綜合台,http://pull-l3-cny.douyincdn.com/third/stream-7898d38d54c60879ba96a1fa42edbd53.m3u8
 東森綜合台,http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
 東森綜合台,http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
@@ -402,6 +404,7 @@ TVBS新聞HD,rtmp://119.81.124.89/sat/tv551
 TVBS新聞HD,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
 TVBS新聞HD,mitv://135.148.104.228:19806/beaa6cbcf1034703a97d3295f8c0ae60
 TVBS新聞HD,P2p://135.148.104.228:19806/beaa6cbcf1034703a97d3295f8c0ae60
+東森新聞,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 東森新聞,http://sc2022.stream-link.org/list.php?id=t001
 東森新聞,mitv://135.148.104.228:19806/64677d68000bfdc49616bfd746a567a3
@@ -510,11 +513,13 @@ CinemaWorld,http://pull-l3-cny.douyincdn.com/third/stream-da1f0d9f19a7ad52a9675a
 CinemaWorld,mitv://135.148.104.228:19806/82a4e1f9268245ed93f38fcb17732c8f
 CinemaWorld,mitv://generationnexxxt.com:19806/82a4e1f9268245ed93f38fcb17732c8f
 CinemaWorld,P2p://135.148.104.228:19806/82a4e1f9268245ed93f38fcb17732c8f
+CINEMAX,http://61.221.81.93:8078/hls/22/80/cinemax.m3u8
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 CINEMAX,mitv://135.148.104.228:19806/1d1c586a05ef4c13b029464c6d4644a1
 CINEMAX,mitv://generationnexxxt.com:19806/1d1c586a05ef4c13b029464c6d4644a1
 CINEMAX,P2p://135.148.104.228:19806/1d1c586a05ef4c13b029464c6d4644a1
+HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 HBO,http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
 HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
@@ -567,6 +572,7 @@ Star Movies HD,mitv://135.148.104.228:19806/bcf382b353a74b509a5ca1354b689efe
 Star Movies HD,mitv://generationnexxxt.com:19806/bcf382b353a74b509a5ca1354b689efe
 Star Movies HD,P2p://135.148.104.228:19806/bcf382b353a74b509a5ca1354b689efe
 Star Movies HD,P2p://generationnexxxt.com:19806/bcf382b353a74b509a5ca1354b689efe
+STAR World,http://61.221.81.93:8078/hls/11/80/fox.m3u8
 STAR World,mitv://135.148.104.228:19806/77334a5315e84cf2b964beae14b6cdbc
 STAR World,mitv://generationnexxxt.com:19806/77334a5315e84cf2b964beae14b6cdbc
 STAR World,P2p://135.148.104.228:19806/77334a5315e84cf2b964beae14b6cdbc
@@ -689,6 +695,7 @@ EYETV戲劇,P2p://135.148.104.228:19806/75e45b2ae9bd4a5fa05906c00742d7a1
 Hub娛家,mitv://135.148.104.228:19806/645c74d80002def46afd4af57b744ca1
 Hub娛家,mitv://generationnexxxt.com:19806/645c74d80002def46afd4af57b744ca1
 Hub娛家,P2p://135.148.104.228:19806/645c74d80002def46afd4af57b744ca1
+八大戲劇台,http://61.221.81.93:8078/hls/38/80/gtvdrama.m3u8
 八大戲劇台,http://50.7.238.114:8278/badadrama/playlist.m3u8?ct=19225&tid=ME4E4734124647341246&tsum=c4e596572a79ad99675ee2137d1cc43d
 八大戲劇台,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 八大戲劇台,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
@@ -714,6 +721,7 @@ Hub娛家,P2p://135.148.104.228:19806/645c74d80002def46afd4af57b744ca1
 亞洲劇台,mitv://135.148.104.228:19806/9d60d2f9f6fa4a368fbe457f8efad108
 亞洲劇台,mitv://generationnexxxt.com:19806/9d60d2f9f6fa4a368fbe457f8efad108
 亞洲劇台,P2p://135.148.104.228:19806/9d60d2f9f6fa4a368fbe457f8efad108
+東森戲劇台,http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
 東森戲劇台,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 東森戲劇台,http://60.251.33.252:18538/.m3u8
 東森戲劇台,http://123.51.229.65:18538/.m3u8
@@ -836,6 +844,7 @@ Z頻道,P2p://135.148.104.228:19806/2a5836bb5cae422b95e2a523e488bb24
 智林體育台,mitv://135.148.104.228:19806/e32d399935b14711ad1b193cd5841274
 智林體育台,mitv://generationnexxxt.com:19806/e32d399935b14711ad1b193cd5841274
 智林體育台,P2p://135.148.104.228:19806/e32d399935b14711ad1b193cd5841274
+ELEVEN 1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN 1,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 ELEVEN 1,rtmp://9wv7.mine.nu/sat/tv731
 ELEVEN 1,rtmp://219.80.97.77/sat/tv731
@@ -843,6 +852,7 @@ ELEVEN 1,rtmp://119.81.124.89/sat/tv731
 ELEVEN 1,mitv://135.148.104.228:19806/61a3473768ec4860bf9c5cc9911f71d6
 ELEVEN 1,mitv://generationnexxxt.com:19806/61a3473768ec4860bf9c5cc9911f71d6
 ELEVEN 1,P2p://135.148.104.228:19806/61a3473768ec4860bf9c5cc9911f71d6
+ELEVEN 2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 ELEVEN 2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 ELEVEN 2,rtmp://9wv7.mine.nu/sat/tv741
 ELEVEN 2,rtmp://219.80.97.77/sat/tv741
@@ -1242,7 +1252,9 @@ CCTV衛生健康,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/20125
 
 港澳頻道,#genre#
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://kkwk999.top/fh.php?id=fhzw
+凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 凤凰资讯,http://kkwk999.top/fh.php?id=fhzx
 凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
@@ -1257,6 +1269,7 @@ CCTV衛生健康,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/20125
 翡翠台,mitv://generationnexxxt.com:19806/03b76f07cea3474a913541c586fc0747
 翡翠台,P2p://135.148.104.228:19806/03b76f07cea3474a913541c586fc0747
 翡翠台,P2p://generationnexxxt.com:19806/03b76f07cea3474a913541c586fc0747
+翡翠台(華麗台),http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571187&extension=ts&play_token=YkgkwgVqOg
 翡翠台(華麗台),mitv://135.148.104.228:19806/273abed884a24011a410ddb0ea81cb1a
 翡翠台(華麗台),mitv://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
 翡翠台(華麗台),P2p://135.148.104.228:19806/273abed884a24011a410ddb0ea81cb1a
@@ -1315,7 +1328,6 @@ ViuTV,https://live.astradamy.com/viutv/index.m3u8
 HOY,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 HOY,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 HOY資訊,http://cdn.hkdtmb.com/raw/78.ts
-翡翠台(MY),http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571187&extension=ts&play_token=YkgkwgVqOg
 TVB星河,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571186&extension=ts&play_token=iYsTPtzZ05
 TVB娱乐新闻台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571188&extension=ts&play_token=FCeLwkcapV
 TVB娱乐新闻台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153504&extension=ts&play_token=1zsxueSzUr

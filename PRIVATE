@@ -547,6 +547,7 @@ TVBS歡樂台,P2p://135.148.104.228:19806/645c744e0000479b6afb2f39254b3e96
 東森超視,mitv://generationnexxxt.com:19806/a1a5f1b22da74d458bf6cfff8c190c6f
 東森超視,P2p://135.148.104.228:19806/a1a5f1b22da74d458bf6cfff8c190c6f
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+靖天歡樂台,http://pull-l3-cny.douyincdn.com/third/stream-ea6907626f7d64aa61e5ebf88180e43d.m3u8
 靖天歡樂台,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
 靖天日本台,mitv://135.148.104.228:19806/b44ffe1378b4424e975f518583c4915a
 靖天日本台,mitv://generationnexxxt.com:19806/b44ffe1378b4424e975f518583c4915a
@@ -836,10 +837,12 @@ tvN Movies HD,P2p://135.148.104.228:19806/0c39816f6b864d57a8a7c9c956e31952
 天映經典,mitv://135.148.104.228:19806/644b663d000a432e285c34846b9e74d6
 天映經典,mitv://generationnexxxt.com:19806/644b663d000a432e285c34846b9e74d6
 天映經典,P2p://135.148.104.228:19806/644b663d000a432e285c34846b9e74d6
+天映頻道,http://pull-l3-cny.douyincdn.com/third/stream-4480903e93e7bf6ddde637e903c423a0.m3u8
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映頻道,mitv://135.148.104.228:19806/644b68b3000a7c162865d184572c1ff0
 天映頻道,mitv://generationnexxxt.com:19806/644b68b3000a7c162865d184572c1ff0
 天映頻道,P2p://135.148.104.228:19806/644b68b3000a7c162865d184572c1ff0
+好萊塢電影台,http://pull-l3-cny.douyincdn.com/third/stream-06027cd7cadf310982fe67221578515b.m3u8
 好萊塢電影台,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 好萊塢電影台http://120.84.96.87:808/hls/24/index.m3u8
 好萊塢電影台,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
@@ -896,6 +899,7 @@ tvN Movies HD,P2p://135.148.104.228:19806/0c39816f6b864d57a8a7c9c956e31952
 靖天映畫,mitv://135.148.104.228:19806/3ee9183e81d7426b9951e42251877c96
 靖天映畫,mitv://generationnexxxt.com:19806/3ee9183e81d7426b9951e42251877c96
 靖天映畫,P2p://135.148.104.228:19806/3ee9183e81d7426b9951e42251877c96
+靖天電影台,http://pull-l3-cny.douyincdn.com/third/stream-2ce10c5078ec753f8f50f4c3897e8f76.m3u8
 靖天電影台,mitv://135.148.104.228:19806/030b9d54cd424c6ba0d5e8acf16f9769
 靖天電影台,mitv://generationnexxxt.com:19806/030b9d54cd424c6ba0d5e8acf16f9769
 靖天電影台,P2p://135.148.104.228:19806/030b9d54cd424c6ba0d5e8acf16f9769
@@ -913,6 +917,7 @@ tvN Movies HD,P2p://135.148.104.228:19806/0c39816f6b864d57a8a7c9c956e31952
 衛視電影台,mitv://135.148.104.228:19806/e6614f107c924a868360f724bf10f9d8
 衛視電影台,mitv://generationnexxxt.com:19806/e6614f107c924a868360f724bf10f9d8
 衛視電影台,P2p://135.148.104.228:19806/e6614f107c924a868360f724bf10f9d8
+龍祥時代,http://pull-l3-cny.douyincdn.com/third/stream-c32278dece9f79334a2a878aaa730e95.m3u8
 龍祥時代,http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 龍祥時代,http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 龍祥時代,http://198.16.100.90:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8

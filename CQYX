@@ -363,3 +363,28 @@ http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=sheying
 #EXTINF:-1,tvg-id="靓妆" tvg-name="靓妆" tvg-logo="https://epg.112114.xyz/logo/靓妆.png" group-title="其他",靓妆
 https://live.goodiptv.club/api/cqyx.php?id=liang
 http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=liang
+#EXTINF:-1,tvg-id="NOW爆谷" tvg-name="NOW爆谷" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷台.png" group-title="港澳台",NOW爆谷
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/histar.php?id=baogu-movies&proxy
+#EXTINF:-1,tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://epg.112114.xyz/logo/环球电视.png" group-title="港澳台",环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1,tvg-id="HKS" tvg-name="HKS" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="港澳台",HKS
+http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
+https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
+#EXTINF:-1,tvg-id="面包台" tvg-name="面包台" tvg-logo="https://epg.112114.xyz/logo/面包台.png" group-title="港澳台",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1,tvg-id="年代MUCH" tvg-name="年代MUCH" tvg-logo="https://epg.112114.xyz/logo/年代MUCH.png" group-title="港澳台",年代MUCH
+http://61.221.81.93:8078/hls/27/80/much.m3u8
+#EXTINF:-1,tvg-id="番薯台" tvg-name="番薯台" tvg-logo="https://epg.112114.xyz/logo/番薯台.png" group-title="港澳台",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1,tvg-id="The K-Pop" tvg-name="The K-Pop" tvg-logo="https://epg.112114.xyz/logo/The K-Pop.png" group-title="港澳台",The K-Pop
+https://ytm2.yuanhsing.cf/TheKPOP.m3u8
+#EXTINF:-1,tvg-id="The K-Pop2" tvg-name="The K-Pop2" tvg-logo="https://epg.112114.xyz/logo/The K-Pop2.png" group-title="港澳台",The K-Pop2
+https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
+#EXTINF:-1,tvg-id="Sexy K-Pop" tvg-name="Sexy K-Pop" tvg-logo="https://epg.112114.xyz/logo/Sexy K-Pop.png" group-title="港澳台",Sexy K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w783602844.m3u8
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1,tvg-id="时尚FTV" tvg-name="时尚FTV" tvg-logo="https://epg.112114.xyz/logo/时尚FTV.png" group-title="港澳台",时尚FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1,tvg-id="Hub都会台" tvg-name="Hub都会台" tvg-logo="https://epg.112114.xyz/logo/HUB E City.png" group-title="港澳台",Hub都会台
+https://ucdn.starhubgo.com/bpk-tv/HubECityHD/output/manifest.mpd

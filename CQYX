@@ -363,10 +363,11 @@ http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=sheying
 #EXTINF:-1,tvg-id="靓妆" tvg-name="靓妆" tvg-logo="https://epg.112114.xyz/logo/靓妆.png" group-title="其他",靓妆
 https://live.goodiptv.club/api/cqyx.php?id=liang
 http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=liang
-#EXTINF:-1,tvg-id="NOW爆谷" tvg-name="NOW爆谷" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷台.png" group-title="港澳台",NOW爆谷
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/histar.php?id=baogu-movies&proxy
-#EXTINF:-1,tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://epg.112114.xyz/logo/环球电视.png" group-title="港澳台",环球电视
+#EXTINF:-1,tvg-id="美亚电影(粤)" tvg-name="美亚电影(粤)" tvg-logo="https://epg.112114.xyz/logo/美亚电影.png" group-title="港澳台",美亚电影(粤)
+https://epg.pw/stream/3f7e84c15f713a0759e8e5a8a6d1e9936060296da7c2cbfff441950b43cd2c83.ctv
+#EXTINF:-1,tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://epg.112114.xyz/logo/环球电视台.png" group-title="港澳台",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
+http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1,tvg-id="HKS" tvg-name="HKS" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="港澳台",HKS
 http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
 https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
@@ -386,5 +387,9 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w783602844.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:-1,tvg-id="时尚FTV" tvg-name="时尚FTV" tvg-logo="https://epg.112114.xyz/logo/时尚FTV.png" group-title="港澳台",时尚FTV
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
-#EXTINF:-1,tvg-id="Hub都会台" tvg-name="Hub都会台" tvg-logo="https://epg.112114.xyz/logo/HUB E City.png" group-title="港澳台",Hub都会台
-https://ucdn.starhubgo.com/bpk-tv/HubECityHD/output/manifest.mpd
+#EXTINF:-1,tvg-id="時裝頻道" tvg-name="時裝頻道" tvg-logo="https://epg.112114.xyz/logo/時裝頻道.png" group-title="港澳台",時裝頻道
+http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8 
+#EXTINF:-1,tvg-id="Channel [V]" tvg-name="Channel [V]" tvg-logo="https://epg.112114.xyz/logo/Channel [V].png" group-title="港澳台",Channel [V]
+http://jydx.jdshipin.com:808/hls/88/index.m3u8
+#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
+http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8

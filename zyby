@@ -637,7 +637,7 @@ ViuTV,https://live.astradamy.com/viutv/index.m3u8
 翡翠台(MY),http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571187&extension=ts&play_token=YkgkwgVqOg
 TVB娱乐新闻台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571188&extension=ts&play_token=FCeLwkcapV
 TVB娱乐新闻台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153504&extension=ts&play_token=1zsxueSzUr
-天映频道(Indo),http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571218&extension=ts&play_token=KVBInS6gLQ
+天映频道(SG),http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571218&extension=ts&play_token=KVBInS6gLQ
 亚洲美食,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=534440&extension=ts&play_token=LyUpNB6XX1
 HGTV,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571202&extension=ts&play_token=Fpq0F9Q9fu
 TVB J1,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153395&extension=ts&play_token=NqMwFnqLMi
@@ -676,8 +676,6 @@ TVB星河,http://lcx-olt.8866.org:8181/tsfile/live/1004_1.m3u8
 中天综合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天综合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 中天综合,http://61.221.81.93:8078/hls/35/80/cti.m3u8
-中天新闻,https://epg.pw/stream/93417f5ca23a213e2fd16c9a1fb03013b4aaed0cd2a59826ab129ceefe981477.m3u8
-中天新闻,https://epg.pw/stream/93fa8edfde1ca4ddf8fd46cef643e1f11c143704c26bb6de2adc32d2b3c5c0e1.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
@@ -762,7 +760,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 龍祥時代,http://lcx-olt.8866.org:8181/tsfile/live/1077_1.m3u8
 星卫电影,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941625
 天映频道(SG),http://livestreaming.kozow.com/lemo.php?id=64d50d2e-5368-44ee-8b30-e10677e35ef9&type=m3u8
-天映频道(Indo),http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941618
+天映频道(SG),http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941618
 HBO高清,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10117
 HBO2高清,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10118
 HBO家庭高清,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10121

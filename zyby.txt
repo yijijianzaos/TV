@@ -557,6 +557,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
 龍祥時代,http://lcx-olt.8866.org:8181/tsfile/live/1077_1.m3u8
 星卫电影,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941625
+天映频道,http://livestreaming.kozow.com/stream.php?id=CelestialMovies&type=m3u8
 天映频道(SG),http://livestreaming.kozow.com/lemo.php?id=64d50d2e-5368-44ee-8b30-e10677e35ef9&type=m3u8
 天映频道(SG),http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941618
 HBO高清,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10117

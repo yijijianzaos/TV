@@ -363,35 +363,4 @@ http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=sheying
 #EXTINF:-1,tvg-id="靓妆" tvg-name="靓妆" tvg-logo="https://epg.112114.xyz/logo/靓妆.png" group-title="其他",靓妆
 https://live.goodiptv.club/api/cqyx.php?id=liang
 http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=liang
-#EXTINF:-1,tvg-id="美亚电影(粤)" tvg-name="美亚电影(粤)" tvg-logo="https://epg.112114.xyz/logo/美亚电影.png" group-title="港澳台",美亚电影(粤)
-https://epg.pw/stream/3f7e84c15f713a0759e8e5a8a6d1e9936060296da7c2cbfff441950b43cd2c83.ctv
-#EXTINF:-1,tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://epg.112114.xyz/logo/环球电视台.png" group-title="港澳台",环球电视
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1,tvg-id="HKS" tvg-name="HKS" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="港澳台",HKS
-http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
-https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
-#EXTINF:-1,tvg-id="面包台" tvg-name="面包台" tvg-logo="https://epg.112114.xyz/logo/面包台.png" group-title="港澳台",面包台
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1,tvg-id="年代MUCH" tvg-name="年代MUCH" tvg-logo="https://epg.112114.xyz/logo/年代MUCH.png" group-title="港澳台",年代MUCH
-http://61.221.81.93:8078/hls/27/80/much.m3u8
-#EXTINF:-1,tvg-id="番薯台" tvg-name="番薯台" tvg-logo="https://epg.112114.xyz/logo/番薯台.png" group-title="港澳台",番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1,tvg-id="The K-Pop" tvg-name="The K-Pop" tvg-logo="https://epg.112114.xyz/logo/The K-Pop.png" group-title="港澳台",The K-Pop
-https://ytm2.yuanhsing.cf/TheKPOP.m3u8
-#EXTINF:-1,tvg-id="The K-Pop2" tvg-name="The K-Pop2" tvg-logo="https://epg.112114.xyz/logo/The K-Pop2.png" group-title="港澳台",The K-Pop2
-https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
-#EXTINF:-1,tvg-id="Sexy K-Pop" tvg-name="Sexy K-Pop" tvg-logo="https://epg.112114.xyz/logo/Sexy K-Pop.png" group-title="港澳台",Sexy K-Pop
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w783602844.m3u8
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-#EXTINF:-1,tvg-id="时尚FTV" tvg-name="时尚FTV" tvg-logo="https://epg.112114.xyz/logo/时尚FTV.png" group-title="港澳台",时尚FTV
-http://80.94.54.42/fashiontv/stream/playlist.m3u8
-#EXTINF:-1,tvg-id="時裝頻道" tvg-name="時裝頻道" tvg-logo="https://epg.112114.xyz/logo/時裝頻道.png" group-title="港澳台",時裝頻道
-http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8 
-#EXTINF:-1,tvg-id="Channel V" tvg-name="Channel V" tvg-logo="https://epg.112114.xyz/logo/Channel V.png" group-title="港澳台",[V]
-http://jydx.jdshipin.com:808/hls/88/index.m3u8
-#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
-http://113.117.74.21:8081/hls/87/index.m3u8
-http://113.117.74.22:8081/hls/87/index.m3u8
-http://113.117.74.24:8081/hls/87/index.m3u8
+
